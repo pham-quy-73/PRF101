@@ -1,0 +1,6 @@
+
+| ISBN     | Ten Truyen           | Ten Tac Gia          | Nam Xuat Ban | So Trang | Gia Tien                  | So Luot Da Ban            |
+1  	QU  	QW 	1991 	15 	15000 	100
+3  	DRAGONBALL  	AKIRATO  	2000 	500 	40000 	500000
+2	Qe	1	1	1	1	1	
+4	q	1	2	4	4	1
